@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">I am a developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 - 🔭 I’m currently working on [MyMovieListAPI (pet project)](https://github.com/2taru/MyMovieListAPI)
 
