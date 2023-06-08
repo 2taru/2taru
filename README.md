@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyMovieListAPI (pet project)](https://github.com/2taru/MyMovieListAPI)
 
-- 🌱 I’m currently learning **Java Spring Boot 3 Framework**
+- 🌱 I’m currently learning **Java Spring Boot 3 Framework and Testing**
 
 - 📫 How to reach me **turianytsia.timur@gmail.com**
 
