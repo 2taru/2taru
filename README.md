@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">I am a developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **Task Manager** (Timur branches) (https://github.com/Vvu08/TasksManager)
+- 🔭 I’m currently working on **Event Manager System** (https://github.com/2taru/EventManagementSystem)
 
-- 🌱 I’m currently learning **Java Spring Boot 3 Framework and Testing**
+- 🌱 I’m currently learning **Java Spring MVC + Thymeleaf**
 
 - 📫 How to reach me **turianytsia.timur@gmail.com**
 
