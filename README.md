@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Event Manager System** (https://github.com/2taru/EventManagementSystem)
 
-- 🌱 I’m currently learning **Java Spring MVC + Thymeleaf**
+- 🌱 I’m currently learning **Microservices with SpringBoot,Docker,Kubernetes**
 
 - 📫 How to reach me **turianytsia.timur@gmail.com**
 
