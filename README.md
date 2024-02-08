@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Task Manager System** (https://github.com/2taru/TaskManagementSystem)
 
-- 🌱 I’m currently learning **Microservices with SpringBoot,Docker,Kubernetes**
+- 🌱 I’m currently learning **Microservices with SpringBoot, Docker and Kubernetes**
 
 - 📫 How to reach me **turianytsia.timur@gmail.com**
 
