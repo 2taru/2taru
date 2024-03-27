@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/timur-turianytsia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timur-turianytsia-50a71825a" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100011734606016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100011734606016" height="30" width="40" /></a>
+<a href="https://www.facebook.com/timur.turianytsia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100011734606016" height="30" width="40" /></a>
 <a href="https://instagram.com/2.taru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.taru" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sneaky_b0y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sneaky_b0y" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sneakyb0y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneakyb0y" height="30" width="40" /></a>
