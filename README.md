@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">I am a developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **Task Management System** (https://github.com/2taru/TaskManagementSystem)
-
 - 🌱 I’m currently learning **Microservices with SpringBoot, Docker and Kubernetes**
 
 - 📫 How to reach me **turianytsia.timur@gmail.com**
