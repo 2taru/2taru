@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">I am a developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Laravel** and **React**
 
 - 📫 How to reach me **turianytsia.timur@gmail.com**
 
