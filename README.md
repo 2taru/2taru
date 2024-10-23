@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
-<h3 align="center">I am a developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **React, PHP and Laravel**
-- 📫 How to reach me**turianytsia.timur@gmail.com**
+📫 My email: **turianytsia.timur@gmail.com**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -50,10 +48,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react"
             width="40"
             height="40"
         />
@@ -78,6 +76,14 @@
             height="40"
         />
     </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -90,14 +96,6 @@
         <img
             src="https://laravel.com/img/logomark.min.svg"
             alt="laravel"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
             width="40"
             height="40"
         />
@@ -168,10 +166,4 @@
     </a>
 </p>
 
-<p>
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=2taru&show_icons=true&locale=en&layout=compact"
-        alt="2taru"
-    />
-</p>
+
