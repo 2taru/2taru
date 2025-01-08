@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 
-📫 My email: **turianytsia.timur@gmail.com**
-
 <h3 align="left">Socials:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/timur-turianytsia" target="blank"
