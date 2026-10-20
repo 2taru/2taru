@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Timur+%F0%9F%91%8B;Full-stack+developer;React+%C2%B7+TypeScript+%C2%B7+Laravel+%C2%B7+Spring" alt="Hi, I'm Timur" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Timur+%F0%9F%91%8B;Full-stack+developer;React+%C2%B7+TypeScript+%C2%B7+Laravel" alt="Hi, I'm Timur" />
 
 I build web apps end to end — from the database and API to a polished, responsive UI.<br/>
 Lately: a time & task tracker for teams and a zero-latency MIDI synth in the browser.
@@ -47,11 +47,10 @@ Browser MIDI synthesizer: 128 General MIDI sounds, chord detection, note waterfa
 **Tools & design**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,pnpm,figma,ps,pr" />
 
-### 📊 GitHub stats
+### 📊 Top languages
 
 <div align="center">
 
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=2taru&theme=one_dark_pro&hide_border=true" alt="GitHub streak" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2taru&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 
 </div>
