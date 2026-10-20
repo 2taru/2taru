@@ -1,11 +1,57 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/timur.turianytsia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2.taru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timur-turianytsia) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Timur+%F0%9F%91%8B;Full-stack+developer;React+%C2%B7+TypeScript+%C2%B7+Laravel+%C2%B7+Spring" alt="Hi, I'm Timur" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I build web apps end to end — from the database and API to a polished, responsive UI.<br/>
+Lately: a time & task tracker for teams and a zero-latency MIDI synth in the browser.
 
-![](https://nirzak-streak-stats.vercel.app/?user=2taru&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2taru&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/timur-turianytsia)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/2.taru)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/timur.turianytsia)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+### 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⏱️ [tht — Track Hours & Tasks](https://github.com/2taru/tht)
+Time tracker + Kanban task manager with teams, roles, reports, billing and Excel/CSV export. Multi-tenant Postgres with row-level security.
+
+`React` `TypeScript` `Supabase` `Tailwind` `shadcn/ui`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎹 [Synth Key](https://github.com/2taru/synth-key)
+Browser MIDI synthesizer: 128 General MIDI sounds, chord detection, note waterfall, recording to `.mid` and a Synthesia-style practice mode.
+
+`React` `TypeScript` `Web MIDI` `Web Audio`
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Tech stack
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,bootstrap" />
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,supabase,postgres,mysql,sqlite" />
+
+**Tools & design**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,pnpm,figma,ps,pr" />
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=2taru&theme=one_dark_pro&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2taru&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+
+</div>
